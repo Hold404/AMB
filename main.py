@@ -13,8 +13,8 @@ import json
 import random
 import ast
 
-TOKEN = '1868652925:AAEIe_A5BnRayvY5mWOEre07I1Yu1xEI7qY' #токен бота
-GROUP_ID = '-1001401350010' #айди группы
+TOKEN = '' #токен бота
+GROUP_ID = '' #айди группы
 filename = 'lavels.json'
 filename2 = 'words.txt'
 filename3 = 'settings_names.txt'
