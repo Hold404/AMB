@@ -1,4 +1,4 @@
-#Auto Moderator Bot 4.2 by Sherl0ck
+#Auto Moderator Bot 4.2 by Hold404
 
 from aiogram import * #импортируем все из библиотеки aiogram
 from aiogram.types import ReplyKeyboardRemove, \
