@@ -18,7 +18,7 @@ GROUP_ID = '' #айди группы
 filename = 'lavels.json'
 filename2 = 'words.txt'
 filename3 = 'settings_names.txt'
-admins_id_list = [676940003]
+admins_id_list = []
 
 xpMin = 1 #минимальное количство опыта (0.01)
 xpMax = 6 #максимальное количество опыта (0.06)
